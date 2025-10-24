@@ -38,7 +38,7 @@ jq --version
 ## Run aws configure
 
 * Run `aws configure` to set up AWS credentials for your codespace  
-* use region `eu-east-1` 
+* use region `eu-west-1` 
 * use json as output format 
 
 ## Use Terraform to Create a CloudWatch Dashboard
